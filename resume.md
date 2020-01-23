@@ -79,9 +79,10 @@ Student Scholarship recipient, **“PI Works! Conference,” Cascade Chapter of 
 
 
 ## Recent Service:
-**Founder, Board Secretary, Trails Committee Chair: Rocky Mountain Front Weed Roundtable**,
+**Founder, Board Mem: Rocky Mountain Front Weed Roundtable**,
 January 2019-Present.
 - Partnered with others in the community to develop a nonprofit and programs to encourage local outdoor recreation opportunities.
+- Board Secretary and Trails Committee Chair (January 2019-January 2020)
 
 **Member, Teton Pass Cooperative Steering Committee, Choteau, MT**,
 June 2019-October 2019.
@@ -111,6 +112,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1Nzg2MzUxLDEzMDE2NzI5MzAsMTY1Mz
-k3NDAwNF19
+eyJoaXN0b3J5IjpbMTYyODI1MjEyNCwxMzAxNjcyOTMwLDE2NT
+M5NzQwMDRdfQ==
 -->
