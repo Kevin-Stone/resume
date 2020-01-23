@@ -4,12 +4,6 @@
 Portland, OR 97232
 (541) 554-5773
 [kevin@ponderosa.consulting](mailto:Kevin@Ponderosa.Consulting)
-
-My passion is for the people and places of the American West. My interests revolve around the important roles that communication, information and decision-making fulfill in natural resources conservation  and management. My career and consulting practice are built on these principles:
-- Fostering ethical and impactful communication between conservation experts, decision makers, and the public.
-- Design and facilitation of effective and informed decision-making processes.
-- Data-driven collaboration, communication, and decision-making.
-- Building the capacity for effective participation in natural resources conservation and management among agencies, organizations, and the public.
 ## Education:
 **Master of Arts in Communication Studies,
 University of Montana**; Missoula, MT
@@ -116,5 +110,5 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzk3NDAwNF19
+eyJoaXN0b3J5IjpbMTMwMTY3MjkzMCwxNjUzOTc0MDA0XX0=
 -->
