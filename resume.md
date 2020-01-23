@@ -31,7 +31,7 @@ Choteau MT, January 2016- Present.
 Solo consulting practice in natural resources communication and project management.
 - Design of successful outreach and engagement campaigns, public events, social media content, web and print media, and facilitated collaborative processes. 
 - Developed a robust outreach and workplanning process for a water conservation nonprofit. Developed and executed an outreach and educational campaign for Montana's largest water distribution project; events included hundreds of participants. 
-- Developed a print and social media campaign for a retailer targeted at agricultural producers.
+- Developed a print and social media campaign for a retailer targeting agricultural producers.
 - Encourage data driven decision making particularly using remote sensing, GIS, data visualization and cartography.  Geospatial data management and publication.
 - Perform detailed project management for organizations and government including planning processes and physical built projects.
 - Administration of contracts and grants including federal, state, local, and private funding sources and clients.
@@ -111,6 +111,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI3NzQ1MTIsMTMwMTY3MjkzMCwxNj
+eyJoaXN0b3J5IjpbLTIwNTgzOTc1MzgsMTMwMTY3MjkzMCwxNj
 UzOTc0MDA0XX0=
 -->
