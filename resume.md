@@ -20,16 +20,16 @@ Choteau MT, May 2019- Present
 Interim position as the lone staff person at a nonprofit organization with  the mission to conduct strategic, collaborative noxious weed management while partnering with local stakeholders to benefit the economic, biological, and social well-being of the Rocky Mountain Front.
 
 - Coordination, planning, and execution of 10 community events.
-- Grants research, writing, and reporting, including proposal development and all grantwritting for the National Fish and Wildlife Foundation’s Improving Habitat Quality in Western Big Game Winter Range and Migration Corridors program. 
+- Grants research, writing, and reporting, including proposal development and all grant writing for the National Fish and Wildlife Foundation’s Improving Habitat Quality in Western Big Game Winter Range and Migration Corridors program. 
 - Developing and maintaining partnerships with landowners as well as county, state, and federal agencies for landscape-scale noxious weeds management. 
 - Biological control (insects) logistics, coordination, and monitoring. Project communication and reporting.
-- Website management and content creation (Squarespace),  and geospatial analysis and digital cartography. 
+- Website management and content creation, geospatial analysis and digital cartography. 
 
 
 **Owner/Consultant, Ponderosa Consulting**,
 Choteau MT, January 2016- Present.
 Solo consulting practice in natural resources communication and project management.
-- Develop successful outreach and engagement campaigns, public events, social media content and campaigns, web (wordpress) and print media, and facilitated collaborative processes. Developed a robust outreach and workplanning process for a water conservation nonprofit. Developed and executed an outreach and educational campaign for Montana's largest water distribution project; events included hundreds of participants. 
+- Develop successful outreach and engagement campaigns, public events, social media content and campaigns, web and print media, and facilitated collaborative processes. Developed a robust outreach and workplanning process for a water conservation nonprofit. Developed and executed an outreach and educational campaign for Montana's largest water distribution project; events included hundreds of participants. 
 - Developed a print and social media campaign for a retailer targeted at agricultural producers.
 - Encourage data driven decision making particularly using remote sensing, GIS, data visualization and cartography.  Geospatial data management and publication.
 - Perform detailed project management for organizations and government including planning processes and physical built projects.
@@ -110,6 +110,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTkwMjk1MCwxMzAxNjcyOTMwLDE2NT
-M5NzQwMDRdfQ==
+eyJoaXN0b3J5IjpbMTU3NDE5NzAzLDEzMDE2NzI5MzAsMTY1Mz
+k3NDAwNF19
 -->
