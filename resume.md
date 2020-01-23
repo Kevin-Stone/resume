@@ -102,16 +102,16 @@ April 2013- March 2016.
 msexton@3rivers.net  
 (406) 590-2751 
 
-**Doug Weist**, Owner, FarmTech LLC; Owner, Weist Farms; Board Chair, Friends of the Teton.
+**Doug Weist**, Owner, FarmTech LLC; Owner, Weist Farms; Board Chair, Friends of the Teton
 doug@farmtech.us
 (406) 594-2767
 
-**Donna **Silverberg****, Owner/Principal, DS Consulting
+**Donna **Silverberg****, Owner/Principal, DS Public Public policy and consensus building consulting
 donna@dsconsult.co  
 (503) 248-4703
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTcxMTkwNSw4MDAxMTU0NSwxMzAxNj
-cyOTMwLDE2NTM5NzQwMDRdfQ==
+eyJoaXN0b3J5IjpbLTkzOTEwODMyMywxMTM1NzExOTA1LDgwMD
+ExNTQ1LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
 -->
