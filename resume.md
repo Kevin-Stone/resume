@@ -79,7 +79,7 @@ Student Scholarship recipient, **“PI Works! Conference,” Cascade Chapter of 
 
 
 ## Recent Service:
-**Founder, Board Mem: Rocky Mountain Front Weed Roundtable**,
+**Founder, Board Member: Rocky Mountain Front Weed Roundtable**,
 January 2019-Present.
 - Partnered with others in the community to develop a nonprofit and programs to encourage local outdoor recreation opportunities.
 - Board Secretary and Trails Committee Chair (January 2019-January 2020)
@@ -112,6 +112,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODI1MjEyNCwxMzAxNjcyOTMwLDE2NT
-M5NzQwMDRdfQ==
+eyJoaXN0b3J5IjpbODAwMTE1NDUsMTMwMTY3MjkzMCwxNjUzOT
+c0MDA0XX0=
 -->
