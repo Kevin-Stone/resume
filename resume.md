@@ -88,7 +88,7 @@ January 2019-Present.
 June 2019-October 2019.
 - Appointed by the Choteau Port Authority and Montana Cooperative Development Center to a committee exploring the possibility of cooperative ownership of the local ski area.
 
-**Board Secretary: Rocky Mountain Front Weed Roundtable, Choteau, MT**,
+**Board Member and Board Secretary: Rocky Mountain Front Weed Roundtable, Choteau, MT**,
 January 2017-May 2019.
 - Service as a board member for a consensus driven, landscape scale, collaborative organization.
 -  Dedication to cooperation, innovation, and coordination among and between governments and NGOs regarding management of noxious and invasive plants.
@@ -111,6 +111,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTc4MjE1OSwxMTM1NzExOTA1LDgwMD
+eyJoaXN0b3J5IjpbMTc3OTY3ODAxNiwxMTM1NzExOTA1LDgwMD
 ExNTQ1LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
 -->
