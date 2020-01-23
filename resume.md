@@ -26,7 +26,7 @@ Interim position as the lone staff person at a nonprofit organization with  the 
 - Website management and content creation, geospatial analysis and digital cartography. 
 
 
-**Owner/Consultant, Ponderosa Consulting**,
+**Owner, Ponderosa Consulting**,
 Choteau MT, January 2016- Present.
 Solo consulting practice in natural resources communication and project management.
 - Designed successful outreach and engagement campaigns, public events, social media content, web and print media, and facilitated collaborative processes. 
@@ -111,6 +111,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTY3ODAxNiwxMTM1NzExOTA1LDgwMD
-ExNTQ1LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
+eyJoaXN0b3J5IjpbMjAwMDU3NDk1MiwxNzc5Njc4MDE2LDExMz
+U3MTE5MDUsODAwMTE1NDUsMTMwMTY3MjkzMCwxNjUzOTc0MDA0
+XX0=
 -->
