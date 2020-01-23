@@ -29,7 +29,8 @@ Interim position as the lone staff person at a nonprofit organization with  the 
 **Owner/Consultant, Ponderosa Consulting**,
 Choteau MT, January 2016- Present.
 Solo consulting practice in natural resources communication and project management.
-- Develop successful outreach and engagement campaigns, public events, social media content and campaigns, web and print media, and facilitated collaborative processes. Developed a robust outreach and workplanning process for a water conservation nonprofit. Developed and executed an outreach and educational campaign for Montana's largest water distribution project; events included hundreds of participants. 
+- Design of successful outreach and engagement campaigns, public events, social media content, web and print media, and facilitated collaborative processes. 
+- Developed a robust outreach and workplanning process for a water conservation nonprofit. Developed and executed an outreach and educational campaign for Montana's largest water distribution project; events included hundreds of participants. 
 - Developed a print and social media campaign for a retailer targeted at agricultural producers.
 - Encourage data driven decision making particularly using remote sensing, GIS, data visualization and cartography.  Geospatial data management and publication.
 - Perform detailed project management for organizations and government including planning processes and physical built projects.
@@ -110,6 +111,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDE5NzAzLDEzMDE2NzI5MzAsMTY1Mz
-k3NDAwNF19
+eyJoaXN0b3J5IjpbLTE0NjI3NzQ1MTIsMTMwMTY3MjkzMCwxNj
+UzOTc0MDA0XX0=
 -->
