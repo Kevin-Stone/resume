@@ -17,10 +17,10 @@ Minor in Political Science
 **Coordinator, Rocky Mountain Front Weed Roundtable**
 Choteau MT, May 2019- Present
 
-Interim position as the lone staff position at a nonprofit organization with  the mission to conduct strategic, collaborative noxious weed management while partnering with local stakeholders to benefit the economic, biological, and social well-being of the Rocky Mountain Front.
+Interim position as the lone staff person at a nonprofit organization with  the mission to conduct strategic, collaborative noxious weed management while partnering with local stakeholders to benefit the economic, biological, and social well-being of the Rocky Mountain Front.
 
 - Coordination, planning, and execution of 10 community events.
-- Grants research, writing, and reporting, including proposal development for the National Fish and Wildlife Foundation’s Improving Habitat Quality in Western Big Game Winter Range and Migration Corridors program. 
+- Grants research, writing, and reporting, including proposal development and all grantwritting for the National Fish and Wildlife Foundation’s Improving Habitat Quality in Western Big Game Winter Range and Migration Corridors program. 
 - Developing and maintaining partnerships with landowners as well as county, state, and federal agencies for landscape-scale noxious weeds management. 
 - Biological control (insects) logistics, coordination, and monitoring. Project communication and reporting.
 - Website management and content creation (Squarespace),  and geospatial analysis and digital cartography. 
@@ -110,5 +110,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTY3MjkzMCwxNjUzOTc0MDA0XX0=
+eyJoaXN0b3J5IjpbMTg4MTkwMjk1MCwxMzAxNjcyOTMwLDE2NT
+M5NzQwMDRdfQ==
 -->
