@@ -95,8 +95,7 @@ January 2017-May 2019.
 
 **Lead Mediator, Dispute Resolution Center of Missoula County, Missoula, MT**, 
 April 2013- March 2016.
-- Forty (plus) hours of facilitating court ordered mediation sessions.
-- Professional and personal training in mediation.
+
 ## Professional References:
 **Mary Sexton**, Chair, Choteau Area Port Authority, Former Director, Montana DNRC; Board Member, Rocky Mountain Front Weed Roundtable; Former Board Member, Teton River Watershed Group 
 msexton@3rivers.net  
@@ -112,6 +111,6 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTEwODMyMywxMTM1NzExOTA1LDgwMD
+eyJoaXN0b3J5IjpbLTk0NTc4MjE1OSwxMTM1NzExOTA1LDgwMD
 ExNTQ1LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
 -->
