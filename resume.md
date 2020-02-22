@@ -1,6 +1,6 @@
 
 # Kevin Stone
-2130 NE Clackamas Street
+2130 NE Clackamas Street, Apt 7
 Portland, OR 97232
 (541) 554-5773
 [kevin@ponderosa.consulting](mailto:Kevin@Ponderosa.Consulting)
@@ -13,7 +13,7 @@ Graduate Certificate in Natural Resources Conflict Resolution
 University of Oregon**; Eugene, OR
 Minor in Political Science
 
-## Conservation Communication Experience:
+## Collaborative Conservation Experience:
 **Coordinator, Rocky Mountain Front Weed Roundtable**
 Choteau MT, May 2019- Present
 
@@ -111,7 +111,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDU3NDk1MiwxNzc5Njc4MDE2LDExMz
-U3MTE5MDUsODAwMTE1NDUsMTMwMTY3MjkzMCwxNjUzOTc0MDA0
-XX0=
+eyJoaXN0b3J5IjpbLTE0NjQzNjAwNjUsMjAwMDU3NDk1MiwxNz
+c5Njc4MDE2LDExMzU3MTE5MDUsODAwMTE1NDUsMTMwMTY3Mjkz
+MCwxNjUzOTc0MDA0XX0=
 -->
