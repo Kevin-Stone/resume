@@ -79,7 +79,7 @@ Student Scholarship recipient, **“PI Works! Conference,” Cascade Chapter of 
 
 
 ## Recent Service:
-**Founder, Board Member: Rocky Mountain Front Weed Roundtable**,
+**Founder, Board Member: Friends of the Teton**,
 January 2019-Present.
 - Partnered with others in the community to develop a nonprofit and programs to encourage local outdoor recreation opportunities.
 - Board Secretary and Trails Committee Chair (January 2019-January 2020)
@@ -111,7 +111,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQzNjAwNjUsMjAwMDU3NDk1MiwxNz
-c5Njc4MDE2LDExMzU3MTE5MDUsODAwMTE1NDUsMTMwMTY3Mjkz
-MCwxNjUzOTc0MDA0XX0=
+eyJoaXN0b3J5IjpbNTM0MzcwMzM1LDIwMDA1NzQ5NTIsMTc3OT
+Y3ODAxNiwxMTM1NzExOTA1LDgwMDExNTQ1LDEzMDE2NzI5MzAs
+MTY1Mzk3NDAwNF19
 -->
