@@ -50,12 +50,13 @@ Adjunct Instructor, August 2014- December 2014
 - Taught stand-alone undergraduate courses in Argumentation and Public Speaking.
 - Promoted an educational model for both classroom and competitive debate students based on public interest and civic engagement.
 
-**Operations Clerk, Oregon Judicial Department**,
-Multnomah County Circuit Court, Portland OR, June 2011-August 2012.
-Oregon Judicial Department- Washington County Circuit Court, Hillsboro OR, February 2006- June 2007.
-- Attentive support of court operations.
-- Compassionate service to the public in navigating court processes.
-- Responsibility for accurate public records.
+** Assistant Speech and Debate Coach,
+Lewis and Clark College
+(September 2009 to March 2010)
+
+Dr. Bjorn Stillion Southard: 503-768-7666
+
+Assistant Debate Coach: Assist in preparation for collegiate debate competition, judication of debates.
 
 ## Professional Development:
 
@@ -110,7 +111,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA5NDcxNCw1MzQzNzAzMzUsMjAwMD
-U3NDk1MiwxNzc5Njc4MDE2LDExMzU3MTE5MDUsODAwMTE1NDUs
-MTMwMTY3MjkzMCwxNjUzOTc0MDA0XX0=
+eyJoaXN0b3J5IjpbLTE2NzA5MjgzODAsNTM0MzcwMzM1LDIwMD
+A1NzQ5NTIsMTc3OTY3ODAxNiwxMTM1NzExOTA1LDgwMDExNTQ1
+LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
 -->
