@@ -50,10 +50,10 @@ Adjunct Instructor, August 2014- December 2014
 - Taught stand-alone undergraduate courses in Argumentation and Public Speaking.
 - Promoted an educational model for both classroom and competitive debate students based on public interest and civic engagement.
 
-** Assistant Speech and Debate Coach,
+**Assistant Speech and Debate Coach,
 Lewis and Clark College** Portland, OR.
 September 2009- March 2010
-Assist in preparation for collegiate debate competition, judging of intercollegiate debates.
+Assisted in preparation for collegiate debate competition, judging of intercollegiate debates.
 
 ## Professional Development:
 
@@ -108,7 +108,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEyNDAwMTcsNTM0MzcwMzM1LDIwMD
-A1NzQ5NTIsMTc3OTY3ODAxNiwxMTM1NzExOTA1LDgwMDExNTQ1
-LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
+eyJoaXN0b3J5IjpbMzgzNTcxNzIyLDUzNDM3MDMzNSwyMDAwNT
+c0OTUyLDE3Nzk2NzgwMTYsMTEzNTcxMTkwNSw4MDAxMTU0NSwx
+MzAxNjcyOTMwLDE2NTM5NzQwMDRdfQ==
 -->
