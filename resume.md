@@ -51,12 +51,9 @@ Adjunct Instructor, August 2014- December 2014
 - Promoted an educational model for both classroom and competitive debate students based on public interest and civic engagement.
 
 ** Assistant Speech and Debate Coach,
-Lewis and Clark College
-(September 2009 to March 2010)
-
-Dr. Bjorn Stillion Southard: 503-768-7666
-
-Assistant Debate Coach: Assist in preparation for collegiate debate competition, judication of debates.
+Lewis and Clark College** Portland, OR.
+September 2009- March 2010
+Assist in preparation for collegiate debate competition, judging of intercollegiate debates.
 
 ## Professional Development:
 
@@ -111,7 +108,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5MjgzODAsNTM0MzcwMzM1LDIwMD
+eyJoaXN0b3J5IjpbLTE0NjEyNDAwMTcsNTM0MzcwMzM1LDIwMD
 A1NzQ5NTIsMTc3OTY3ODAxNiwxMTM1NzExOTA1LDgwMDExNTQ1
 LDEzMDE2NzI5MzAsMTY1Mzk3NDAwNF19
 -->
