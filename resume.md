@@ -13,7 +13,7 @@ Graduate Certificate in Natural Resources Conflict Resolution
 University of Oregon**; Eugene, OR
 Minor in Political Science
 
-## Collaborative Conservation Experience:
+## Natural Resources Communication Experience:
 **Coordinator, Rocky Mountain Front Weed Roundtable**
 Choteau MT, May 2019- Present
 
@@ -110,7 +110,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTg1MTk3Niw1MzQzNzAzMzUsMjAwMD
+eyJoaXN0b3J5IjpbLTE2MTA5NDcxNCw1MzQzNzAzMzUsMjAwMD
 U3NDk1MiwxNzc5Njc4MDE2LDExMzU3MTE5MDUsODAwMTE1NDUs
 MTMwMTY3MjkzMCwxNjUzOTc0MDA0XX0=
 -->
