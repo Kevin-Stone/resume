@@ -25,7 +25,6 @@ Interim position as the lone staff person at a nonprofit organization with  the 
 - Biological control (insects) logistics, coordination, and monitoring. Project communication and reporting.
 - Website management and content creation, geospatial analysis and digital cartography. 
 
-
 **Owner, Ponderosa Consulting**,
 Choteau MT, January 2016- Present.
 Solo consulting practice in natural resources communication and project management.
@@ -43,7 +42,7 @@ Portland OR, June 2013-August 2013.
 - Aided firm with project work, including an extended contract with the Bureau of Land Management.
 - Gained experience with facilitated and collaborative decision making, client support, and federal environmental policy.
 
-## Additional Work Experience:
+## Communication Coaching Experience:
 **Instructor and Assistant Debate Coach, 
 Department of Communication Studies, University of Montana**, Missoula, MT.
 Graduate Instructor and Assistant Debate Coach, August 2012- May 2014
@@ -58,7 +57,7 @@ Oregon Judicial Department- Washington County Circuit Court, Hillsboro OR, Febru
 - Compassionate service to the public in navigating court processes.
 - Responsibility for accurate public records.
 
-## Relevant Professional Development:
+## Professional Development:
 
 **"Open Source Tools for Data Science,”  IBM**. Certificate obtained January 2019.
 
@@ -111,7 +110,7 @@ donna@dsconsult.co
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MzcwMzM1LDIwMDA1NzQ5NTIsMTc3OT
-Y3ODAxNiwxMTM1NzExOTA1LDgwMDExNTQ1LDEzMDE2NzI5MzAs
-MTY1Mzk3NDAwNF19
+eyJoaXN0b3J5IjpbLTMxOTg1MTk3Niw1MzQzNzAzMzUsMjAwMD
+U3NDk1MiwxNzc5Njc4MDE2LDExMzU3MTE5MDUsODAwMTE1NDUs
+MTMwMTY3MjkzMCwxNjUzOTc0MDA0XX0=
 -->
